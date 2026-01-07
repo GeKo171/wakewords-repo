@@ -1,0 +1,9 @@
+name: My Wakewords Repo
+description: A test repo for Home Assistant Wakewords
+languages:
+  english:
+    - hey_assistant.tflite
+    - wake_up.tflite
+  german:
+    - hallo_assistent.tflite
+    - aufwachen.tflite
